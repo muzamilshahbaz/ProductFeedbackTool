@@ -18,7 +18,8 @@ export default createStore({
             'Customer Satisfaction Survey',
             'Customer Effort Score Feedback',
             'Sales Objections & Feedback',
-            'Customer Churn Feedback'
+            'Customer Feedback',
+            'Customer Complain',
         ],
     },
     getters: {
